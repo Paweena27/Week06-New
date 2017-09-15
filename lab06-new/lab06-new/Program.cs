@@ -7,6 +7,16 @@ namespace lab06_new
     {
         static void Main(string[] args)
         {
+            sayHello();
+            Console.ReadLine();
         }
+
+        static void sayHello()
+        {
+            Console.WriteLine("Hello World.");
+        }
+
+
     }
+
 }
