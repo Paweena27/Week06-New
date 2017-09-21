@@ -7,6 +7,9 @@ namespace lab06_new
     {
         static void Main(string[] args)
         {
+
+          
+
         }
     }
 }
