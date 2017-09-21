@@ -17,10 +17,11 @@ namespace lab06_new
                 x = ("This is Even Number");
             }
             Console.WriteLine("{0}", x);
-            
+            return;
         }
+        static void EvenOddNumber(double A)
 
-      
-            
+
+
     }
 }
