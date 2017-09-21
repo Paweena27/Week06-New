@@ -7,6 +7,10 @@ namespace lab06_new
     {
         static void Main(string[] args)
         {
+            int N;
+            Console.WriteLine("Enter N");
+            N = double.Parse(Console.ReadLine());
+
         }
     }
 }
