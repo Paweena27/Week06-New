@@ -19,9 +19,6 @@ namespace lab06_new
             Console.WriteLine("{0}", x);
             return;
         }
-        static void EvenOddNumber(double A)
-
-
-
+        static void Main(string[] args)
     }
 }
