@@ -7,6 +7,10 @@ namespace lab06_new
     {
         static void Main(string[] args)
         {
+            int a = 2;
+            string myString = a.ToString();
+            Console.WriteLine(myString);
+
         }
     }
 }
